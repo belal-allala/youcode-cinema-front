@@ -6,7 +6,7 @@
 
 La différence réside dans l'architecture adoptée :
 
-- Le projet `modular-spa` suit une architecture **modulaire**.
+- Le projet `native-spa` suit une architecture **modulaire**.
 - Le projet `with-jquery` est basé sur une approche **fonctionnelle**.
 
 Vous êtes libre d’adopter l’approche de votre choix.
